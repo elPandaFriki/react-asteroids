@@ -16,7 +16,6 @@ npm install --save react-asteroids
 import React, { Component } from 'react'
 
 import MyComponent from 'react-asteroids'
-import 'react-asteroids/dist/index.css'
 
 class Example extends Component {
   render() {
